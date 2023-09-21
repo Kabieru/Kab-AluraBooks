@@ -1,0 +1,12 @@
+    :root
+{
+    --bleargh-wargh-eaugh: #ebecee;
+}
+    body
+{
+    background-color: var(--bleargh-wargh-eaugh);
+    
+}
+
+    h1{background-color: white;}
+    
